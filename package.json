@@ -1,0 +1,14 @@
+{
+  "name": "snakecubesolver",
+  "version": "1.0.0",
+  "description": "Snake cube solver using brute force made in NodeJS",
+  "main": "snakeCube.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "chaitanya_v",
+  "license": "ISC"
+}
